@@ -39,7 +39,7 @@ Following are some of the new features and learning encountered while creating t
 <br>
 Follwing resources have been used in maintaining this project:
 
-- (BG Remover)[https://www.remove.bg/upload] to remove the background of the logo implanted and other assets.
+- [BG Remover](https://www.remove.bg/upload) to remove the background of the logo implanted and other assets.
 
 
 <br><br>

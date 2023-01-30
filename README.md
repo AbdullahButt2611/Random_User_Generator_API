@@ -28,7 +28,7 @@ The "Random User Generator API" repository contains a simple RESTful API that ge
 <br>
 Following are some of the new features and learning encountered while creating this amazing project:
 
-- Write points here
+- Responsive and Interactive UI Design
 
 
 <br><br>
@@ -40,6 +40,9 @@ Following are some of the new features and learning encountered while creating t
 Follwing resources have been used in maintaining this project:
 
 - [BG Remover](https://www.remove.bg/upload) to remove the background of the logo implanted and other assets.
+- [Google Fonts](https://fonts.google.com/) to import the font family of <b>Poppins - Sans Serif</b> into the project.
+- [Font Awesome CDN](https://cdnjs.com/libraries/font-awesome) to import the icons into the project. 
+- [RandomUser.me](https://randomuser.me/api/) is used as a fetch API to get the user's data.
 
 
 <br><br>
@@ -73,8 +76,8 @@ You can exclusively watch the video on this project from the making to deploying
 
 
 
-### GUI
-![GUI for this Project](path)
+### Graphical User Interface
+![GUI for this Project](/images/demo.png)
 
 
 <br><br>
@@ -87,7 +90,10 @@ You can exclusively watch the video on this project from the making to deploying
 <br>
 Follwing technologies have been used at the core of this application to make it stand in the market place:
 
-- Write points here
+- HTML
+- CSS
+- JS
+- RandomUser.me API
 
 
 <br><br>
@@ -96,7 +102,7 @@ Follwing technologies have been used at the core of this application to make it 
 
 ### Advancement
 
-> Text here
+> No Advancement Required
 
 <br><br>
 <!-- ................................................................................................................................. -->

@@ -14,9 +14,8 @@
 <br><br>
 
 <p align="justify">
-
 The "Random User Generator API" repository contains a simple RESTful API that generates random user data including names, addresses, email addresses, and other related information. This API can be used to generate test data for a variety of applications such as testing software, populating databases, and more. The API is written in a popular programming language and can be easily deployed to a server or used locally. The repository includes documentation on how to use the API, as well as instructions on how to customize the generated data to fit specific needs. The API also includes a user-friendly interface that allows for easy testing and exploration of the generated data. Overall, the "Random User Generator API" is a useful tool for developers and testers looking for a quick and easy way to generate realistic test data. <br>
-
+All the user have to do is to simply click on the `Generate Button` to put a fecth request and then the system will get the data and will update the screen with the new data got as response to the request.   
 </p>
 
 
@@ -29,6 +28,8 @@ The "Random User Generator API" repository contains a simple RESTful API that ge
 Following are some of the new features and learning encountered while creating this amazing project:
 
 - Responsive and Interactive UI Design
+- Fetch API
+- All operation at a single click
 
 
 <br><br>

@@ -52,8 +52,8 @@ Follwing resources have been used in maintaining this project:
 
 ### Demo
 <p align="justify">
-  The Demo of this working portfolio can be found on <br>
-  <a href="></a>
+  The Demo of this working project can be found on <br>
+  <a href="https://rebrand.ly/RandomUserAPI_MABCORP">https://rebrand.ly/RandomUserAPI_MABCORP</a>
 </p>
 
 
